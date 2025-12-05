@@ -18,6 +18,7 @@
 - 💡 Love building end-to-end solutions with modern tech stacks
 - 🌍 Based in **India**
 - 📫 Reach me at: **om.mohite@vit.edu.in**
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/1aZ23cJCXdHYyJTcQAXiFrC7RwnJBAGgd/view?usp=drivesdk)**
 - ⚡ Fun fact: I turn coffee into code and models into magic! ☕✨
 
 ---
@@ -158,3 +159,4 @@ me.say_hi()
 **⭐ From [ommo007](https://github.com/ommo007)**
 
 </div>
+
