@@ -4,7 +4,7 @@
 
 ### 🎓 Electronics & Computer Science Undergrad | 🤖 AI/ML Enthusiast | 💻 Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;AI%2FML+Enthusiast+%7C+Full+Stack+Developer;Building+intelligent+solutions;Always+learning%2C+always+growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;AI%2FML+Enthusiast+%7C+Full+Stack+Dev" alt="Typing SVG" />
 
 </div>
 
@@ -123,6 +123,7 @@ me.say_hi()
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/omammo007?s=21)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:om.mohite@vit.edu.in)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ommo007)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1aZ23cJCXdHYyJTcQAXiFrC7RwnJBAGgd/view?usp=drivesdk)
 
 </div>
 
